@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T10:58:09.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="LrjreM7hjS7s8qVybikC" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T11:56:34.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="M1NHsHHcLjARTEGJghaQ" version="15.9.4" type="github">
   <diagram id="Lcyb1b9hpg59USaNjAr4" name="Page-1">
     <mxGraphModel dx="816" dy="3767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -90,10 +90,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhycdX7d72E2OKxftDO_-10" value="Litio" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="zhycdX7d72E2OKxftDO_-10" value="Batería de Litio" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="-2690" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="zhycdX7d72E2OKxftDO_-11" value="- tipo: String&#xa;- celdas: int&#xa;- vida útil: float&#xa;- voltaje: int&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zhycdX7d72E2OKxftDO_-10">
+        <mxCell id="zhycdX7d72E2OKxftDO_-11" value="- capacidad: int&#xa;- celdas: int&#xa;- tiempo de carga: float&#xa;- potencia: int&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zhycdX7d72E2OKxftDO_-10">
           <mxGeometry y="26" width="180" height="64" as="geometry" />
         </mxCell>
         <mxCell id="zhycdX7d72E2OKxftDO_-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="zhycdX7d72E2OKxftDO_-10">
