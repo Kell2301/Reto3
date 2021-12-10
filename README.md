@@ -16,7 +16,7 @@ b. Cree una matriz de dimensiones NxM de tipo double.
 c. Pida los NxM números y llene la matriz con los mismos.
 d. Posteriormente, recorra la matriz, imprimiendo sus elementos.
 
-4.Elabore un diagrama de clases UML del dominio de los autos eléctricos. 
+4. Elabore un diagrama de clases UML del dominio de los autos eléctricos. 
 
 a. Tener por lo menos 5 clases y las relaciones respectivas entre ellas.
 b. Cada clase deberá tener, por lo menos, 3 métodos.
